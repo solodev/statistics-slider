@@ -3,7 +3,7 @@ In this tutorial, [Solodev](https://www.solodev.com/) demonstrates how to use a 
 
 ## Tutorial
 
-For detailed instructions, view Solodev's [Using CSS Transitions and Transforms](https://www.solodev.com/blog/web-design/using-css-transitions-and-transforms.stml) article.
+For detailed instructions, view Solodev's [Creating a Company Stats Slider for your Website](https://www.solodev.com/blog/web-design/creating-a-company-stats-slider-for-your-website.stml) article.
 
 ## Demo
 
